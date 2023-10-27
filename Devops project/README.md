@@ -1,4 +1,4 @@
-# DevOps Project
+# Automate the Deployment Process
 
 In this project we are going to create Jenkins CI / CD to deploy `webapp.war` application to `kubernetes` server via `ansible playbooks`. It will create `tomcat` `docker` image with `webapp.war` file and push image to `docker hub` repo and pull from `kubernetes master server`.
 
